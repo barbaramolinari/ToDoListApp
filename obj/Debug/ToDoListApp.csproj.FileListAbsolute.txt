@@ -102,6 +102,9 @@ C:\Users\barba\Desktop\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.Core
 C:\Users\barba\Desktop\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.CopyComplete
 C:\Users\barba\Desktop\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.dll
 C:\Users\barba\Desktop\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb
+C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.Migrations.ToDo1.resources
+C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.csproj.GenerateResource.cache
+C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
 C:\Users\barba\Desktop\ToDoListApp\bin\ToDoListApp.dll.config
 C:\Users\barba\Desktop\ToDoListApp\bin\ToDoListApp.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\ToDoListApp.pdb
@@ -158,6 +161,8 @@ C:\Users\barba\Desktop\ToDoListApp\bin\System.Web.WebPages.Deployment.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\System.Web.WebPages.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\System.Web.WebPages.Razor.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\WebGrease.dll
+C:\Users\barba\Desktop\ToDoListApp\bin\EntityFramework.xml
+C:\Users\barba\Desktop\ToDoListApp\bin\EntityFramework.SqlServer.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\System.Web.Helpers.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\System.Web.Mvc.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\System.Web.Optimization.xml
@@ -167,8 +172,6 @@ C:\Users\barba\Desktop\ToDoListApp\bin\System.Web.WebPages.Deployment.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\System.Web.WebPages.Razor.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\Newtonsoft.Json.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\Antlr3.Runtime.pdb
-C:\Users\barba\Desktop\ToDoListApp\bin\EntityFramework.xml
-C:\Users\barba\Desktop\ToDoListApp\bin\EntityFramework.SqlServer.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
@@ -182,6 +185,8 @@ C:\Users\barba\Desktop\ToDoListApp\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\barba\Desktop\ToDoListApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barba\Desktop\ToDoListApp\bin\es\EntityFramework.resources.dll
+C:\Users\barba\Desktop\ToDoListApp\bin\es\EntityFramework.SqlServer.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\System.Web.Helpers.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\System.Web.Mvc.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\System.Web.Optimization.resources.dll
@@ -189,8 +194,6 @@ C:\Users\barba\Desktop\ToDoListApp\bin\es\System.Web.Razor.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\System.Web.WebPages.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\barba\Desktop\ToDoListApp\bin\es\EntityFramework.resources.dll
-C:\Users\barba\Desktop\ToDoListApp\bin\es\EntityFramework.SqlServer.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
@@ -201,10 +204,6 @@ C:\Users\barba\Desktop\ToDoListApp\bin\es\Microsoft.Owin.Security.Facebook.resou
 C:\Users\barba\Desktop\ToDoListApp\bin\es\Microsoft.Owin.Security.Google.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\barba\Desktop\ToDoListApp\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.csproj.AssemblyReference.cache
-C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
 C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.csproj.CopyComplete
 C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.dll
 C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.pdb
-C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.Migrations.ToDo1.resources
-C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.csproj.GenerateResource.cache
