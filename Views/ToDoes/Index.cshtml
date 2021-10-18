@@ -4,6 +4,8 @@
     ViewBag.Title = "Index";
 }
 
+<h2>My ToDo List</h2>
+
 <div id="tableDiv"></div>
 <div id="todoCreateFrom">
     @using (Ajax.BeginForm("AJAXCreate", "ToDoes", new AjaxOptions
@@ -17,8 +19,9 @@
     <div class="form-group">
         @Html.AntiForgeryToken()
         <div>
-           @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
-           @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            <input type="submit" value="Save" class="btn btn-default" />
         </div>
     </div>
     }
@@ -28,6 +31,8 @@
     <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
     <script src="~/Custom_Scripts/BuildTable.js"></script>
     @Scripts.Render("~/bundles/jqueryval")
+
+    
 }
 
 

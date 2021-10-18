@@ -207,3 +207,4 @@ C:\Users\barba\Desktop\ToDoListApp\bin\es\Microsoft.Owin.Security.MicrosoftAccou
 C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.csproj.CopyComplete
 C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.dll
 C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.pdb
+C:\Users\barba\Desktop\ToDoListApp\obj\Debug\ToDoListApp.csproj.AssemblyReference.cache
