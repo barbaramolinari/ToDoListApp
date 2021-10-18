@@ -86,9 +86,11 @@ namespace ToDoListApp.Controllers
                 toDo.User = currentUser;
                 db.ToDos.Add(toDo);
                 db.SaveChanges();
+                ModelState.Clear();
                 return RedirectToAction("Index");
             }
 
+            ModelState.Clear();
             return View(toDo);
         }
 
@@ -106,7 +108,7 @@ namespace ToDoListApp.Controllers
                 db.ToDos.Add(toDo);
                 db.SaveChanges();
             }
-
+            ModelState.Clear();
             return PartialView("_ToDoTable", GetMyToDoes());
         }
 
